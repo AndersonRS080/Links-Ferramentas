@@ -1,4 +1,4 @@
-## Sites de ferramentas que utilizo no meu dia a dia, que me ajudam na criação dos meus projetos. 
+## Sites de ferramentas que utilizo no meu dia a dia, na criação dos meus projetos. 
 
 • <a href="https://color.adobe.com/" target="_blank">Color Adobe</a> <br>
 • <a href="https://codebeautify.org/rem-to-px-converter" target="_blank">Codebeautify</a> <br>
