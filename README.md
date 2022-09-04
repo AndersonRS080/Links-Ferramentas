@@ -2,3 +2,4 @@
 
 • <a href="https://www.figma.com/" target="_blank">Figma</a> <br>
 • <a href="https://www.flaticon.com/" target="_blank">Flaticon</a> <br>
+• <a href="https://color.adobe.com/" target="_blank">Color Adobe</a> <br>
